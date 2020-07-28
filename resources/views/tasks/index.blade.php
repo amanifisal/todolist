@@ -62,7 +62,7 @@
                     <th>Task #</th>
                     <th>Name</th>
                     <th>Edit</th>
-                    <th>Delete</th>
+                    <th>Delete test</th>
                 </thead>
                 <tbody>
                 @foreach ($storedTasks as $storedTask)
